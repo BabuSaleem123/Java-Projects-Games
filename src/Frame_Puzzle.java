@@ -4,7 +4,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class Frame_Puzzle extends Frame implements ActionListener {
-    Button b1,b2,b3,b4,b5,b6,b7,b8,b9,b10;
+    Button b1,b2,b3,b4,b5,b6,b7,b8,b9;
     Frame_Puzzle(){
         super("Puzzle Frame");
         b1 = new Button("1");
